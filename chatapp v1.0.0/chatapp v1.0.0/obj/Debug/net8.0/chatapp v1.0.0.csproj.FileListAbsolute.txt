@@ -1,0 +1,90 @@
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\appsettings.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\chatapp v1.0.0.staticwebassets.endpoints.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\chatapp v1.0.0.exe
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\chatapp v1.0.0.deps.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\chatapp v1.0.0.runtimeconfig.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\chatapp v1.0.0.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\chatapp v1.0.0.pdb
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.csproj.AssemblyReference.cache
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.AssemblyInfoInputs.cache
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.AssemblyInfo.cs
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.sourcelink.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\scopedcss\bundle\chatapp v1.0.0.styles.css
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets\msbuild.chatapp v1.0.0.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets\msbuild.chatapp v1.0.0.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets\msbuild.build.chatapp v1.0.0.props
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.chatapp v1.0.0.props
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.chatapp v1.0.0.props
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp .AC25FB1F.Up2Date
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\refint\chatapp v1.0.0.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.pdb
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.genruntimeconfig.cache
+C:\Users\Ahmed Ramzy\source\repos\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\ref\chatapp v1.0.0.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\appsettings.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\chatapp v1.0.0.staticwebassets.endpoints.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\chatapp v1.0.0.exe
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\chatapp v1.0.0.deps.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\chatapp v1.0.0.runtimeconfig.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\chatapp v1.0.0.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\chatapp v1.0.0.pdb
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.csproj.AssemblyReference.cache
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.AssemblyInfoInputs.cache
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.AssemblyInfo.cs
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.sourcelink.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\scopedcss\bundle\chatapp v1.0.0.styles.css
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets\msbuild.chatapp v1.0.0.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets\msbuild.chatapp v1.0.0.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets\msbuild.build.chatapp v1.0.0.props
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.chatapp v1.0.0.props
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.chatapp v1.0.0.props
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp .AC25FB1F.Up2Date
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\refint\chatapp v1.0.0.dll
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.pdb
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\chatapp v1.0.0.genruntimeconfig.cache
+C:\Users\Ahmed Ramzy\source\repos\chatapp(v0.0.0)\chatapp v1.0.0\chatapp v1.0.0\obj\Debug\net8.0\ref\chatapp v1.0.0.dll
